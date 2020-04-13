@@ -1,4 +1,4 @@
-# Proyecto-Final-de-Python
+# Proyecto Final de Python
 
 Calculadora Básica
 ==================
@@ -12,7 +12,7 @@ Calculadora Básica
 
 > Calculadora por Consola
 
-![]()
+![](consola.jpg)
 
 > Calculadora por Interfaz Gráfica
 
