@@ -5,14 +5,16 @@ Calculadora Básica
 
 ### Operaciones Aritméticas
 
-- Suma;
-- Resta;
-- Multiplicación;
-- División;
+- Suma.
+- Resta.
+- Multiplicación.
+- División.
 
 > Calculadora por Consola
 
+![]()
 
 > Calculadora por Interfaz Gráfica
+
 ![](IG.jpg)
 
